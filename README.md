@@ -9,4 +9,4 @@ Let's be real, crypto scammers are some of the worst of the worst bottom feeders
 
 Updated daily/frequently via automation.
 
-All domains added to this list are 1 year old or less (domain age wise).
+All domains added to this list are 1 year old or less (domain age wise) + are actively being used to scam people.
