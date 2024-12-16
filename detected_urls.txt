@@ -8,3 +8,4 @@ usdcbtc.cc
 secureease-activation.com
 coinwhale.us
 CoinBene.io
+ofrex.org
