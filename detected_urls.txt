@@ -32,3 +32,4 @@ us-eth.vip
 us-eth.pro
 us-eth.site
 us-eth.cc
+zaduix.com
