@@ -35,3 +35,4 @@ us-eth.cc
 zaduix.com
 us-eth.live
 wealthexpertise.live
+bit-fy.com
