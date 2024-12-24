@@ -5,6 +5,8 @@ It's a mix of various crypto phishing, crypto scams, drainers, crypto romance sc
 
 Let's be real, crypto scammers are some of the worst of the worst bottom feeders in the cybercrime world. If you wanna help fuck with scammers and help perhaps prevent future people from being scammed, roll this threat intel feed into places and block lists where you see fit that could be help. 
 
+You can also use this list to perform dir scans against them to find interesting/important files. Every now and then it can lead to you finding their infra, setup panels, and even raw data. Check out using the [PhishingSecList](https://github.com/spmedia/PhishingSecLists) that I created specifically for scanning these types of finanacial, phishing, and crypto fraud websites.
+
 "He who spares the wicked injures the good."
 
 Updated daily/frequently via 🤖
