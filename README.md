@@ -7,7 +7,7 @@ Let's be real, crypto scammers are some of the worst of the worst bottom feeders
 
 "He who spares the wicked injures the good."
 
-Updated daily/frequently via automation.
+Updated daily/frequently via 🤖
 
 All domains added to this list are 1 year old or less (domain age wise) + are actively being used to scam people.
 
