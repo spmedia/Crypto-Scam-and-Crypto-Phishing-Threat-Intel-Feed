@@ -7,6 +7,8 @@ Let's be real, crypto scammers are some of the worst of the worst bottom feeders
 
 You can also use this list to perform dir scans against them to find interesting/important files. Every now and then it can lead to you finding their infra, setup panels, and even raw data. Check out using the [PhishingSecList](https://github.com/spmedia/PhishingSecLists) that I created specifically for scanning these types of finanacial, phishing, and crypto fraud websites.
 
+This list will work if you want to import it into your [Pi-hole](https://pi-hole.net/) instance.
+
 "He who spares the wicked injures the good."
 
 Updated daily/frequently via 🤖
