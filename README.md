@@ -13,6 +13,6 @@ You can also use this list to perform dir scans against them to find interesting
 
 Updated daily/frequently via 🤖
 
-All domains added to this list are 1 year old or less (domain age wise) + are actively being used to scam people.
+All domains added to this list are 1 year old or less (domain age wise) + are actively being used to scam people 🧙‍♂️
 
 ![alt text](https://i.imgur.com/JA22DtP.png)
