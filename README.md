@@ -9,10 +9,23 @@ This list will work if you want to import it into your [Pi-hole](https://pi-hole
 
 You can also use this list to perform dir scans against them to find interesting/important files. Every now and then it can lead to you finding their infra, setup panels, and even raw data. Check out using the [PhishingSecList](https://github.com/spmedia/PhishingSecLists) that I created specifically for scanning these types of finanacial, phishing, and crypto fraud websites.
 
-"He who spares the wicked injures the good."
+# ✅ Downloads ↓ ꜜ
 
-Updated daily/frequently via 🤖
+- Raw blocklist: [here](https://raw.githubusercontent.com/spmedia/Crypto-Scam-and-Crypto-Phishing-Threat-Intel-Feed/refs/heads/main/detected_urls.txt)
 
-All domains added to this list are 1 year old or less (domain age wise) + are actively being used to scam people 🧙‍♂️
+- Pi-Hole, AdGuard, uBlock Origin:
+```
+https://raw.githubusercontent.com/spmedia/Crypto-Scam-and-Crypto-Phishing-Threat-Intel-Feed/refs/heads/main/detected_urls.txt
+```
+- Squid: **[detected_urls.txt](https://raw.githubusercontent.com/spmedia/Crypto-Scam-and-Crypto-Phishing-Threat-Intel-Feed/refs/heads/main/detected_urls.txt)** 
+### Features
+
+- Updated daily via 🤖
+- Live scam domains
+- Works across browsers, firewalls, proxies, and more
+- Works with DNS servers like PowerDNS or BIND9 
+
+### Note
+- All domains added to this list are 1 year old or less (domain age wise) + are actively being used to scam people ⚠️🧙‍♂️
 
 ![alt text](https://i.imgur.com/JA22DtP.png)
