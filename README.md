@@ -22,10 +22,11 @@ https://raw.githubusercontent.com/spmedia/Crypto-Scam-and-Crypto-Phishing-Threat
 
 - Updated daily via 🤖
 - Live scam domains
-- Works across browsers, firewalls, proxies, and more
+- Works across firewalls, browsers, proxies, and more
 - Works with DNS servers like PowerDNS or BIND9 
 
 ### Note
 - All domains added to this list are 1 year old or less (domain age wise) + are actively being used to scam people ⚠️🧙‍♂️
+- Newest domains added to the bottom
 
 ![alt text](https://i.imgur.com/JA22DtP.png)
