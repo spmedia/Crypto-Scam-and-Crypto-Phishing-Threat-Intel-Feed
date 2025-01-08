@@ -73,3 +73,6 @@ intelretrieve.com
 cnc-intelligence.com
 blockchainlegal.services
 verify-trezor.io
+commandandcontrolserver.com
+thebackendserver.com
+lookoutsucks.com
