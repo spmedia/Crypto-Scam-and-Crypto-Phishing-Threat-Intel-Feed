@@ -72,3 +72,4 @@ tracefunds.net
 intelretrieve.com
 cnc-intelligence.com
 blockchainlegal.services
+verify-trezor.io
