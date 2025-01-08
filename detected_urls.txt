@@ -76,3 +76,4 @@ verify-trezor.io
 commandandcontrolserver.com
 thebackendserver.com
 lookoutsucks.com
+berge.ink
