@@ -48,7 +48,7 @@ vicpayments.com
 bitmatrix-option.com
 coretrize.com
 catxtoken.com
-h5.okcoiin.top
+okcoiin.top
 tpzuycjr.top
 icl-markets.com
 iclmarkets.com
@@ -65,12 +65,12 @@ ledgercheckapi.com
 Starseabit.com
 bitcoinorgvn.com
 tradingcoin.world
-www.cncintell.website
+cncintell.website
 tracefunds.net
-www.intelretrieve.com
+intelretrieve.com
 cnc-intelligence.com
-www.blockchainlegal.services
-presale.infinaeon.com
+blockchainlegal.services
+infinaeon.com
 dexbitq.org
 bergev.org
-node.quranium.org
+quranium.org
