@@ -30,3 +30,7 @@ https://raw.githubusercontent.com/spmedia/Crypto-Scam-and-Crypto-Phishing-Threat
 - Newest domains added to the bottom
 
 ![alt text](https://i.imgur.com/JA22DtP.png)
+
+# 👉👈 Remove Me
+
+- To have your domain removed from this list, open an ISSUE if you believe you have been wrongly listed. State yo case.
