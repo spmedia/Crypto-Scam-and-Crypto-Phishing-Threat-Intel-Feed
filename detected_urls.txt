@@ -93,3 +93,4 @@ Exch.cash
 Xmrguide.info
 Monero.forex
 trusts-e.cc
+Trusts-e.cc
