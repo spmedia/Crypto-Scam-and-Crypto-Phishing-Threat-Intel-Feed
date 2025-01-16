@@ -96,3 +96,4 @@ trusts-e.cc
 xai303k.com
 lastbit.in
 Web3bay.io
+pdig.club
