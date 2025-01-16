@@ -27,7 +27,7 @@ https://raw.githubusercontent.com/spmedia/Crypto-Scam-and-Crypto-Phishing-Threat
 
 ### Note
 - All domains added to this list are 1 year old or less (domain age wise) + are actively being used to scam people ⚠️🧙‍♂️
-- Newest domains added to the bottom
+- Freshest/new domains are added to the bottom of the list
 
 ![alt text](https://i.imgur.com/JA22DtP.png)
 
