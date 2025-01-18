@@ -34,3 +34,13 @@ https://raw.githubusercontent.com/spmedia/Crypto-Scam-and-Crypto-Phishing-Threat
 # 👉👈 Remove Me
 
 - To have your domain removed from this list, open an ISSUE if you believe you have been wrongly listed. State yo case.
+
+## Star History
+
+<a href="https://star-history.com/#spmedia/Crypto-Scam-and-Crypto-Phishing-Threat-Intel-Feed&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=spmedia/Crypto-Scam-and-Crypto-Phishing-Threat-Intel-Feed&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=spmedia/Crypto-Scam-and-Crypto-Phishing-Threat-Intel-Feed&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=spmedia/Crypto-Scam-and-Crypto-Phishing-Threat-Intel-Feed&type=Date" />
+ </picture>
+</a>
