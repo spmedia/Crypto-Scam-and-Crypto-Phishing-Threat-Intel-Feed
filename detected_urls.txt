@@ -119,3 +119,4 @@ foundrymine.com
 xscoins.cc
 trustbase.top
 alphadextrades.com
+solscan.dev
