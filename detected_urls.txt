@@ -110,3 +110,4 @@ eth-ido.net
 claim-gettrumpmemes.com
 naturalresources.store
 foundryusa.uk
+foundryminer.uk
