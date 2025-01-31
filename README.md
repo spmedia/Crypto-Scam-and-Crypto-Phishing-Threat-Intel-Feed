@@ -44,3 +44,7 @@ https://raw.githubusercontent.com/spmedia/Crypto-Scam-and-Crypto-Phishing-Threat
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=spmedia/Crypto-Scam-and-Crypto-Phishing-Threat-Intel-Feed&type=Date" />
  </picture>
 </a>
+
+# 👋 Greetz
+
+All the CTI and threat intel nerds out there, defcon225, & people hunting down scammers.
