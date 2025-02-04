@@ -172,3 +172,4 @@ nvidiatoken.io
 tpchainol.com
 Bingex.vip
 securesynthesisevm.io
+solidity-code.tech
