@@ -207,3 +207,4 @@ ercfw.com
 blynex.net
 bitay.io
 mutuum.finance
+gotrade.llc
