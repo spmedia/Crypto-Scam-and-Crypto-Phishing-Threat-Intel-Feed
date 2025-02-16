@@ -34,9 +34,9 @@ https://raw.githubusercontent.com/spmedia/Crypto-Scam-and-Crypto-Phishing-Threat
 
 # 👉👈 Remove Me
 
-- To have your domain removed from this list, open an ISSUE if you believe you have been wrongly listed. State yo case.
+To have your domain removed from this list, open an ISSUE if you believe you have been wrongly listed. State yo case.
 
-## Star History
+# ⭐ Star History
 
 <a href="https://star-history.com/#spmedia/Crypto-Scam-and-Crypto-Phishing-Threat-Intel-Feed&Date">
  <picture>
