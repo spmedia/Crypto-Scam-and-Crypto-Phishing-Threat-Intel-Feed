@@ -25,7 +25,7 @@ https://raw.githubusercontent.com/spmedia/Crypto-Scam-and-Crypto-Phishing-Threat
 - Works across firewalls, browsers, proxies, and more
 - Works with DNS servers like PowerDNS or BIND9 
 
-### Note
+### Notes
 - All domains added to this list are 1 year old or less (domain age wise) at the time of being added
 - These websites are actively being used to scam people ⚠️🚩🧙‍♂️
 - Freshest/new domains are added to the bottom of the list
