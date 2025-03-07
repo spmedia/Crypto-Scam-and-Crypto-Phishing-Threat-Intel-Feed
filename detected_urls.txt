@@ -269,3 +269,4 @@ mlrgroup.site
 bfxcoin.org
 bmvgroup.site
 block-sphere.com
+weoplay.com
