@@ -290,3 +290,4 @@ crypto-cap.global
 oslvsap.vip
 pilotrange.com
 mecxtrade.com
+metamarket-gx.com
