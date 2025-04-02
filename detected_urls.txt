@@ -330,3 +330,4 @@ abtcoin.org
 riscoin.net
 genesis-eth.org
 mitradeai.com
+tepdex.com
