@@ -346,3 +346,4 @@ bitcoin-ao.com
 graphcore-app.com
 bluerockasset.com
 pierpoint-global.com
+vertify.xyz
