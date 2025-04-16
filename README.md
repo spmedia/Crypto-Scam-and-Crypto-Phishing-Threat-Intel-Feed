@@ -51,3 +51,5 @@ To have your domain removed from this list, open an ISSUE if you believe you hav
 # 👋 Greetz
 
 All the CTI and threat intel nerds out there, defcon225, <a href="https://cybersecuritystickers.com/">Cybersecurity Stickers</a>, & people hunting down scammers.
+
+Please share this list with any other researchers you know that might find it useful <3
