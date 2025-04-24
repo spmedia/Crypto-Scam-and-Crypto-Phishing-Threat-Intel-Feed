@@ -30,7 +30,7 @@ https://raw.githubusercontent.com/spmedia/Crypto-Scam-and-Crypto-Phishing-Threat
 - Freshest/new domains are added to the bottom of the list
 
 >[!CAUTION]
-These websites are actively being used to scam people and steal money. The author takes no responsibility for any misuse, loss of funds, and users must comply with all applicable laws.
+These websites are actively being used to scam people and steal money/crypto. The author of this list takes no responsibility for any misuse or loss of funds (but if you take down any of these sites, holla at a koala and lmk). 
 
 ![alt text](https://i.imgur.com/JA22DtP.png)
 
