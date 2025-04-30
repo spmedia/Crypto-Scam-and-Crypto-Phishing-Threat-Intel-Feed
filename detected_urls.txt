@@ -188,7 +188,7 @@ hetxo-exchange.com
 optionsxpress-coin.com
 tokenchainsevm-selfcustody.com
 AITCommunity.com
-www.blockchainusdt.com
+blockchainusdt.com
 crypto-coin.cc
 gg6060.net
 PerfectMarket.Live
@@ -415,3 +415,4 @@ droga5.click
 xblock.live
 hbeto.com
 emirex.org
+cryptorecoveryconsultant.com
