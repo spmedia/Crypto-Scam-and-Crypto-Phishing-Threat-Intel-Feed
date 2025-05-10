@@ -441,3 +441,4 @@ rpc-updater.cloud
 highcoin.top
 superfittop.com
 dappblock365.com
+tradeviewpro.live
