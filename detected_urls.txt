@@ -1,5 +1,5 @@
 # Title: Crypto Scam and Crypto Phishing Threat Intel Feed
-# About: Frequently updated list of active crypto phishing, scam, drainers, etc. type of sus sites
+# About: Frequently updated list of active crypto phishing, scam, pig butchering, drainers, etc. type of sus sites
 # Author: spmedia aka Edmond Major III
 # (•‿•◍)
 # Source: https://github.com/spmedia/Crypto-Scam-and-Crypto-Phishing-Threat-Intel-Feed/edit/main/detected_urls.txt
