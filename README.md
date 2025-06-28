@@ -9,6 +9,8 @@ This list will work if you want to import it into your [Pi-hole](https://pi-hole
 
 You can also use this list to perform dir scans against them to find interesting/important files. Every now and then it can lead to you finding their infra, setup panels, and even raw data. Check out using the [PhishingSecList](https://github.com/spmedia/PhishingSecLists) that I created specifically for scanning these types of finanacial, phishing, and crypto fraud websites. It can reveal a ton of useful intel during your recon and hunting phase.
 
+Block these urls from being able to be inboxed at your org. Block em from being able to be accessed on your networks. Block them from being able to be shared on your platforms messaging system. Block em everywhere!
+
 # ✅ Downloads ↓ ꜜ
 
 - Raw blocklist: [here](https://raw.githubusercontent.com/spmedia/Crypto-Scam-and-Crypto-Phishing-Threat-Intel-Feed/refs/heads/main/detected_urls.txt)
