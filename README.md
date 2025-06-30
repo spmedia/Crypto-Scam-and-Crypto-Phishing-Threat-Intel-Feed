@@ -20,6 +20,13 @@ Block these urls from being able to be inboxed at your org. Block em from being 
 https://raw.githubusercontent.com/spmedia/Crypto-Scam-and-Crypto-Phishing-Threat-Intel-Feed/refs/heads/main/detected_urls.txt
 ```
 - Squid: **[detected_urls.txt](https://raw.githubusercontent.com/spmedia/Crypto-Scam-and-Crypto-Phishing-Threat-Intel-Feed/refs/heads/main/detected_urls.txt)** 
+
+### TLD breakdown
+
+How many domains of each TLD have been found in this list (last update June 29 2025)
+
+![breakdown by tld](https://i.imgur.com/ZpiAKDk.png)
+
 ### Features
 
 - Updated daily via 🤖
