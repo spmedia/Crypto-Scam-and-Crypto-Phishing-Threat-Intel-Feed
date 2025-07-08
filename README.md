@@ -1,7 +1,7 @@
 # ℹ️ Crypto Scam and Crypto Phishing Threat Intel Feed
 This is a feed of ✨ fresh crypto phishing and crypto scam websites/domains/URLs.
 
-It's a mix of various crypto phishing, crypto scams, drainers, crypto romance scams, and pig butching scam website URLs.
+It's a mix of various crypto phishing, crypto scams, drainers, crypto romance scams, and pig butchering scam website URLs.
 
 Let's be real, crypto scammers are some of the worst of the worst bottom feeders in the cybercrime world. If you wanna help fuck with scammers and help perhaps prevent future people from being scammed, roll this threat intel feed into places and block lists where it can help. Block these websites and/or report them to help get them taken down.
 
