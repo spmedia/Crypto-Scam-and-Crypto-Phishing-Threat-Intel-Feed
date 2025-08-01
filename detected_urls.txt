@@ -686,3 +686,4 @@ hm-treasury.financial
 2024defivip.vip
 defiportal.org
 etherscan-dex.net
+bitgatetrade.net
