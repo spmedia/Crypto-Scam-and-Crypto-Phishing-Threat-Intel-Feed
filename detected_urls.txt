@@ -695,3 +695,4 @@ blinkbridge.cc
 andes.casa
 pure-exchange.com
 pure-pk.com
+novaxchange.live
