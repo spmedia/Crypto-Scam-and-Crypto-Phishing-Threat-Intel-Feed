@@ -15,7 +15,7 @@ Block these urls from being able to be inboxed at your org. Block em from being 
 
 - Raw blocklist: [here](https://raw.githubusercontent.com/spmedia/Crypto-Scam-and-Crypto-Phishing-Threat-Intel-Feed/refs/heads/main/detected_urls.txt)
 
-- Pi-Hole, AdGuard, uBlock Origin:
+- Pi-Hole, AdGuard, uBlock Origin, Sophos Firewall:
 ```
 https://raw.githubusercontent.com/spmedia/Crypto-Scam-and-Crypto-Phishing-Threat-Intel-Feed/refs/heads/main/detected_urls.txt
 ```
