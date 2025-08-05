@@ -61,7 +61,7 @@ Analysis of ~700 current crypto scam domains by Top Level Domain (Updated: Augus
 
 ---
 
-**Data Source:** [spmedia Crypto-Scam-and-Crypto-Phishing-Threat-Intel-Feed](https://github.com/spmedia/Crypto-Scam-and-Crypto-Phishing-Threat-Intel-Feed)  (this repo duh)
+**Data Source:** [spmedia Crypto-Scam-and-Crypto-Phishing-Threat-Intel-Feed](https://github.com/spmedia/Crypto-Scam-and-Crypto-Phishing-Threat-Intel-Feed) (this repo duh)  
 **Last Updated:** August 2025  
 **Total Domains Analyzed:** ~700 active crypto scam domains
 
