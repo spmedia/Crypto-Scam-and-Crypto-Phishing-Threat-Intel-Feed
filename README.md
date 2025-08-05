@@ -21,11 +21,49 @@ https://raw.githubusercontent.com/spmedia/Crypto-Scam-and-Crypto-Phishing-Threat
 ```
 - Squid: **[detected_urls.txt](https://raw.githubusercontent.com/spmedia/Crypto-Scam-and-Crypto-Phishing-Threat-Intel-Feed/refs/heads/main/detected_urls.txt)** 
 
-### TLD breakdown
+### Detailed TLD breakdown
 
-How many domains of each TLD have been found in this list (last update June 29 2025)
+![breakdown by tld](https://i.imgur.com/jf3WlHh.png)
 
-![breakdown by tld](https://i.imgur.com/ZpiAKDk.png)
+Analysis of ~700 current crypto scam domains by Top Level Domain (Updated: August 2025)
+
+| Rank | TLD | Count | Percentage |
+|------|-----|-------|------------|
+| 1 | .com | 358 | 51.2% |
+| 2 | .top | 37 | 5.3% |
+| 3 | .net | 34 | 4.8% |
+| 4 | .io | 34 | 4.8% |
+| 5 | .vip | 31 | 4.5% |
+| 6 | .cc | 28 | 3.9% |
+| 7 | .org | 28 | 3.9% |
+| 8 | .co | 12 | 1.7% |
+| 9 | .xyz | 12 | 1.7% |
+| 10 | .ai | 11 | 1.5% |
+| 11 | .live | 10 | 1.4% |
+| 12 | .site | 7 | 1.0% |
+| 13 | .us | 6 | 0.9% |
+| 14 | .info | 6 | 0.9% |
+| 15 | .global | 6 | 0.9% |
+| 16 | .finance | 5 | 0.7% |
+| 17 | .online | 5 | 0.7% |
+| 18 | .fun | 5 | 0.7% |
+| 19 | .shop | 5 | 0.7% |
+| 20 | Others | 60 | 8.6% |
+
+## Key Insights
+
+- **.com domains still dominate** with 51.2% of all current scam URLs
+- **New TLDs emerging:** .finance, .online, .fun, and .shop now appear in top threats  
+- **.ai domains increasing** - 11 domains (1.5%), likely exploiting AI hype
+- **Geographic diversity:** 60+ different TLDs across multiple jurisdictions
+- **Evolution pattern:** Scammers adapting to use trendy and legitimate-sounding TLDs
+- **Trust exploitation:** High-trust TLDs (.com, .org, .net) remain heavily abused
+
+---
+
+**Data Source:** [spmedia Crypto-Scam-and-Crypto-Phishing-Threat-Intel-Feed](https://github.com/spmedia/Crypto-Scam-and-Crypto-Phishing-Threat-Intel-Feed)  (this repo duh)
+**Last Updated:** August 2025  
+**Total Domains Analyzed:** ~700 active crypto scam domains
 
 ### Features
 
