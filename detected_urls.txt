@@ -852,3 +852,4 @@ cryptofastrpc.top
 supermarketwe.com
 mojobix.com
 github-fundation.com
+giantstar.xyz
