@@ -656,7 +656,6 @@ aqrl-trade.com
 ofssecurityledger.com
 thecaicommunity.com
 wbfzdefi.vip
-
 recoveries-celsiusclaims.com
 atticusfuture.com
 okdcprime.com
@@ -801,6 +800,7 @@ pmtcoin.com
 rendwex.com
 solenamarketx.com
 quantxes.com
+
 bytewealt.com
 fortcas.com
 currencysplus.com
@@ -855,7 +855,6 @@ github-fundation.com
 giantstar.xyz
 bitowns.online
 bitowns.com
-claimyoursols.app
 boltswap.net
 netapal.com
 tradeitx.com
