@@ -905,3 +905,8 @@ bittopex.com
 vuosax.com
 mafowex.com
 ledgercoinshield.com
+setup-ledger.live
+eng-ledger.io
+en-ledger-install.com
+en-ledgr.org
+ledger.xyz
