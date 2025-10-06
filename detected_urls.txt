@@ -910,3 +910,4 @@ eng-ledger.io
 en-ledger-install.com
 en-ledgr.org
 ledger.xyz
+deospin.com
