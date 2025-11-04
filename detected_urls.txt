@@ -941,7 +941,6 @@ onocafb.top
 definft.live
 prestige-tb.online
 kaopex.com
-
 fedeth.shop
 asecoins.com
 symfa-app.com
@@ -982,4 +981,6 @@ onaiw3.com
 crypto-pulsecce.com
 bitdexchain.com
 nexinks.com
+sanctionscreen.org
+siowax.com
 bitclaim.net
