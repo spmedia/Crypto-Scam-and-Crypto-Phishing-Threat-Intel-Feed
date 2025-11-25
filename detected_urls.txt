@@ -1023,3 +1023,4 @@ polycule.trade
 avatradeexcoins.com
 minaxpump.com
 fixedpumpstrade.com
+bisoswap.io
