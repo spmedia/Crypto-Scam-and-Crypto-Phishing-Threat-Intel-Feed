@@ -1110,3 +1110,4 @@ metachrome.io
 novaex.io
 campbx.io
 tradehill.io
+bc-game.gold
