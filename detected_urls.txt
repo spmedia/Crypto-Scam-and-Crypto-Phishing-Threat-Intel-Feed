@@ -1137,3 +1137,4 @@ cryptogold.exchange
 liquidix.io
 gemonex.com
 moadax.com
+7xcas.com
