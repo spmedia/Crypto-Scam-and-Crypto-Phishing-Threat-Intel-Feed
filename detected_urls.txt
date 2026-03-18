@@ -1212,3 +1212,4 @@ invurge.com
 upcoin.finance
 kovadex.com
 swappi.exchange
+nexus.vin
