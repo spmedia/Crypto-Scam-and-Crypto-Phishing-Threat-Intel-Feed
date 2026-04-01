@@ -11,6 +11,8 @@ You can also use this list to perform dir scans against them to find interesting
 
 Block these urls from being able to be inboxed at your org. Block em from being able to be accessed on your networks. Block them from being able to be shared on your platforms messaging system. Block em everywhere!
 
+Help us grow and protect the world by giving us a ⭐
+
 # ✅ Downloads ↓ ꜜ
 
 - Raw blocklist: [here](https://raw.githubusercontent.com/spmedia/Crypto-Scam-and-Crypto-Phishing-Threat-Intel-Feed/refs/heads/main/detected_urls.txt)
