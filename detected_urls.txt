@@ -1230,3 +1230,4 @@ theusdthouse.online
 bitnest.fi
 bitnest.so
 bitnest.la
+bitnest.is
