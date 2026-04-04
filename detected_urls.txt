@@ -1234,3 +1234,4 @@ bitnest.is
 bitnest.ac
 pumpsafe.io
 logins-coinbase.com
+entatic.co
