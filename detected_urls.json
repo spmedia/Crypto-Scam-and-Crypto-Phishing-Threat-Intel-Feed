@@ -4,7 +4,7 @@
     "description": "Frequently updated list of active crypto phishing, scam, pig butchering, drainers, etc. type of sus sites",
     "author": "spmedia aka Edmond Major III",
     "source": "https://github.com/spmedia/Crypto-Scam-and-Crypto-Phishing-Threat-Intel-Feed/edit/main/detected_urls.txt",
-    "total_count": 1537
+    "total_count": 1089
   },
   "detected_urls": [
     "mexcgbaip.vip",
