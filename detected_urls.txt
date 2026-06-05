@@ -1324,3 +1324,4 @@ tronify.rent
 coinbase-block.com
 darkmode.study
 honeypotshield.com
+goldfxbb.com
