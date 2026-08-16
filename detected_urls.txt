@@ -1419,3 +1419,4 @@ event-x.cc
 satoby.com
 fomapex.com
 arcmine.io
+suavux.com
