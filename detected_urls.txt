@@ -1512,3 +1512,4 @@ uphinvestmentex.world
 solkeep.app
 leverus.pro
 leverus.net
+leverus.org
